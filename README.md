@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Building scalable backend systems, currently architecting "The Hungry Pirates" infrastructure, and grinding algorithms to hit that LeetCode Knight badge. ⚔️
+  Building scalable backend systems, currently architecting "The Hungry Pirates" infrastructure, and grinding algorithms as i love problem solving.
 </p>
 
 ---
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ### 🚀 What I'm Up To
 - 💻 Developing high-performance backend systems using **Node.js & Express**.
-- 🏆 **Hackathon Winner** (Campus Level - April 2026).
-- 🧠 Grinding DSA: **300+** problems solved (Rating: **1750+**).
+- 🏆 **Attending Hackathons to solve and build under pressure**.
+- 🧠 Grinding DSA: **400+** problems solved (Rating: **1750+**).
 - 📚 Deep diving into **Computer Networking** and **Operating Systems**.
 
 ---
